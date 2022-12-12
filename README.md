@@ -1,14 +1,10 @@
 ### 👋 I'm Mehran
-Hi there, I’m Mehran, a computer lover from Istanbul, Turkey.
+Hi there, I’m Mehran, a computer lover living in Istanbul, Turkiye.
 
-### 👀 Full-Stack Developer
-Interested in PHP (Laravel), JavaScript (React.js, Next.js, React Native) and so much into Machine Learning.
+### 💻 Full-Stack Developer
+JavaScript / TypeScript Developer (React, React Native, Next.js) and PHP (Laravel) professional.
 
 ### 🌱 Always Learning
-Currently learning TypeScript which seems really nice so far.
-
 ### 💞️ Love Open Source
-Looking to collaborate on any open-srouce repository that I can!
-
 ### 📫 Happy to Chat
-You can reachout to me via mehran.ab80 [at] gmail [dot] com
+You can reach out to me via mehran.ab80 [at] gmail [dot] com
